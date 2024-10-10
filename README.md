@@ -12,11 +12,9 @@
 <br/><br/>
 
 <h3>4. Các trang khác</h3>
+<div><b style="text-align: center;">4.1 - Game</b></div>
 <img src="https://github.com/user-attachments/assets/bed66906-5834-4b6a-a3d8-101154cf7878">
-<b style="text-align: center;">4.1 - Game</b>
-<br/>
+<div><b style="text-align: center;">4.2 - Các công cụ</b></div>
 <img src="https://github.com/user-attachments/assets/211316ab-bf8f-45c2-b8e1-6c41e6cae21b">
-<b style="text-align: center;">4.2 - Các công cụ</b>
-<br/>
+<div><b style="text-align: center;">4.3 - Đổi mật khẩu</b></div>
 <img src="https://github.com/user-attachments/assets/ee46c9b9-cfaa-458e-aed8-ae809bb1b7bd">
-<b style="text-align: center;">4.3 - Đổi mật khẩu</b>
