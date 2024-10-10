@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
 <body>
     <h1>Sơ qua hình ảnh của ứng dụng:</h1><br/>
     <h3>1. Bảo mật</h3>
@@ -24,4 +17,3 @@
     <img src="https://github.com/user-attachments/assets/211316ab-bf8f-45c2-b8e1-6c41e6cae21b" style="margin-bottom: 10px;">
     <img src="https://github.com/user-attachments/assets/ee46c9b9-cfaa-458e-aed8-ae809bb1b7bd" style="margin-bottom: 10px;">
 </body>
-</html>
