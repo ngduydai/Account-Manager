@@ -1,6 +1,6 @@
 <h1>Sơ qua hình ảnh của ứng dụng:</h1><br/>
 1. Bảo mật
-<image scr="https://github.com/user-attachments/assets/5ab8aecf-d170-421d-be52-e5be33d18342"></image>
+<img src="https://github.com/user-attachments/assets/5ab8aecf-d170-421d-be52-e5be33d18342">
 2. Đăng ký / Đăng nhập tài khoản
 ![image](https://github.com/user-attachments/assets/d227ee66-67cf-43f1-8388-5ace0fdd1de9)
 3. Trang chính
