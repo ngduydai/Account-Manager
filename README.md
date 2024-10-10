@@ -12,8 +12,6 @@
 <br/><br/>
 
 <h3>4. Các trang khác</h3>
-<p><b style="text-align: center;">4.1 - Game</b></p>
-<img src="https://github.com/user-attachments/assets/bed66906-5834-4b6a-a3d8-101154cf7878">
 <p><b style="text-align: center;">4.2 - Các công cụ</b></p>
 <img src="https://github.com/user-attachments/assets/211316ab-bf8f-45c2-b8e1-6c41e6cae21b">
 <p><b style="text-align: center;">4.3 - Đổi mật khẩu</b></p>
