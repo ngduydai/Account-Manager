@@ -1,0 +1,9 @@
+H:\Project\Quản Lý Tài Khoản\Quản Lý Tài Khoản\Quản Lý Tài Khoản\bin\Release\Quản Lý Tài Khoản.exe
+H:\Project\Quản Lý Tài Khoản\Quản Lý Tài Khoản\Quản Lý Tài Khoản\obj\Release\Quản Lý Tài Khoản.csproj.AssemblyReference.cache
+H:\Project\Quản Lý Tài Khoản\Quản Lý Tài Khoản\Quản Lý Tài Khoản\obj\Release\Quản_Lý_Tài_Khoản.AccountManage.resources
+H:\Project\Quản Lý Tài Khoản\Quản Lý Tài Khoản\Quản Lý Tài Khoản\obj\Release\Quản_Lý_Tài_Khoản.Password.resources
+H:\Project\Quản Lý Tài Khoản\Quản Lý Tài Khoản\Quản Lý Tài Khoản\obj\Release\Quản_Lý_Tài_Khoản.Properties.Resources.resources
+H:\Project\Quản Lý Tài Khoản\Quản Lý Tài Khoản\Quản Lý Tài Khoản\obj\Release\Quản_Lý_Tài_Khoản.User.resources
+H:\Project\Quản Lý Tài Khoản\Quản Lý Tài Khoản\Quản Lý Tài Khoản\obj\Release\Quản Lý Tài Khoản.csproj.GenerateResource.cache
+H:\Project\Quản Lý Tài Khoản\Quản Lý Tài Khoản\Quản Lý Tài Khoản\obj\Release\Quản Lý Tài Khoản.csproj.CoreCompileInputs.cache
+H:\Project\Quản Lý Tài Khoản\Quản Lý Tài Khoản\Quản Lý Tài Khoản\obj\Release\Quản Lý Tài Khoản.exe
