@@ -12,6 +12,6 @@
 <br/><br/>
 
 <h3>4. Các trang khác</h3>
-<img src="https://github.com/user-attachments/assets/bed66906-5834-4b6a-a3d8-101154cf7878"><br/>
-<img src="https://github.com/user-attachments/assets/211316ab-bf8f-45c2-b8e1-6c41e6cae21b"><br/>
-<img src="https://github.com/user-attachments/assets/ee46c9b9-cfaa-458e-aed8-ae809bb1b7bd"><br/>
+<img src="https://github.com/user-attachments/assets/bed66906-5834-4b6a-a3d8-101154cf7878" style="margin-bottom: 10px;">
+<img src="https://github.com/user-attachments/assets/211316ab-bf8f-45c2-b8e1-6c41e6cae21b" style="margin-bottom: 10px;">
+<img src="https://github.com/user-attachments/assets/ee46c9b9-cfaa-458e-aed8-ae809bb1b7bd" style="margin-bottom: 10px;">
